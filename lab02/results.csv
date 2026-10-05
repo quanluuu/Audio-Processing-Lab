@@ -1,0 +1,11 @@
+test_file,true_label,pred_label,top1_label,top1_dtw,top2_label,top2_dtw,pred_with_reject,correct
+khong/khong_04.wav,khong,khong,khong,13.3508,hai,17.0644,khong,True
+khong/khong_05.wav,khong,khong,khong,13.4234,hai,19.2455,khong,True
+mot/mot_04.wav,mot,mot,mot,9.2399,ba,19.9444,mot,True
+mot/mot_05.wav,mot,mot,mot,8.9209,ba,20.9452,mot,True
+hai/hai_04.wav,hai,hai,hai,12.8723,khong,15.6762,hai,True
+hai/hai_05.wav,hai,hai,hai,10.734,khong,20.7187,hai,True
+ba/ba_04.wav,ba,ba,ba,11.1288,bon,15.6029,ba,True
+ba/ba_05.wav,ba,ba,ba,10.3081,bon,19.7007,ba,True
+bon/bon_04.wav,bon,bon,bon,13.1356,ba,18.3123,bon,True
+bon/bon_05.wav,bon,bon,bon,12.5473,ba,18.7131,bon,True

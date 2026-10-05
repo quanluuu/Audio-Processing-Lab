@@ -1,0 +1,6 @@
+,accuracy_pct,n_correct,mean_DTW_to_true_class,mean_margin_top2_top1
+"Baseline (trim, MFCC13, 3 tmpl)",100.0,10/10,11.566,7.026
+E1: không trim,90.0,9/10,11.143,4.884
+E2: MFCC13 + Δ,100.0,10/10,13.296,6.817
+E3: 1 template/từ,100.0,10/10,13.941,6.029
+E4: cross-speaker (test = người 2),100.0,25/25,15.199,4.384
